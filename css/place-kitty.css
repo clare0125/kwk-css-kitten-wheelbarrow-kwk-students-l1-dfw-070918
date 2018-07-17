@@ -1,5 +1,5 @@
 
-
+img[alt="Kitty 5"]
 .kitty_1 {
   position: absolute;
   z-index: 1;
@@ -9,7 +9,7 @@
 
 
 
-#kitty_2 {
+  {
   position: absolute;
   z-index: 2;
   top: 212px;
